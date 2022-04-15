@@ -1,0 +1,16 @@
+ _______ ________   _________   __  __           _____ _______ ______ _____  
+|__   __|  ____\ \ / /__   __| |  \/  |   /\    / ____|__   __|  ____|  __ \ 
+   | |  | |__   \ V /   | |    | \  / |  /  \  | (___    | |  | |__  | |__) |
+   | |  |  __|   > <    | |    | |\/| | / /\ \  \___ \   | |  |  __| |  _  / 
+   | |  | |____ / . \   | |    | |  | |/ ____ \ ____) |  | |  | |____| | \ \ 
+   |_|  |______/_/ \_\  |_|    |_|  |_/_/    \_\_____/   |_|  |______|_|  \_\
+
+[WELCOME, PLEASE TYPE YOUR SELECTION AND PRESS ENTER]
+[1: FOR ENCRYPTING TEXT]
+[2: FOR DECRYPTING TEXT]
+[3: FOR DELETING LOGS]
+[4: FOR VIEWING LOGS]
+[5: FOR SOURCE CODE]
+[6: FOR EXITING]
+
+YOUR INPUT IS --> 

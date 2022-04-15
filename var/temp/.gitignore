@@ -1,0 +1,5 @@
+# Ignoring everything inside this folder.
+*
+
+# Adding exception to gitignore file
+!.gitignore
