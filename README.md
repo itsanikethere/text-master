@@ -16,14 +16,12 @@
 
 ## Key Features
 
-* Encryption/Decryption 🔒 
+* Encryption/Decryption 🔒
   - Encrypt/Decrypt text lines for fun.
   - Directly copy the encrypted/decrypted text to clipboard.
 * Logs 📖
   - View the encryption/decryption history in form of logs.
   - Just one keyboard input to clear the recorded logs.
-* Source code 🦾
-  - Feel free to view and modify source code to improve the program.  
 
 ## How To Build
 
@@ -46,6 +44,8 @@ $ ./text-master
 ## Download
 
 You can [download](https://github.com/itsanikethere/text-master/releases/tag/v1) the latest executable version of text-master for Windows.
+
+<p align="center">MadeWith❤️ by <a href="https://github.com/itsanikethere/">@itsanikethere</a>.</p>
 
 <a href="https://www.instagram.com/heyitsanikethere/">
   <img align="right" alt="Aniket Panchal | Instagram" width="20px" src="https://github.com/itsanikethere/text-master/blob/main/assets/3_instagram.svg"/>
